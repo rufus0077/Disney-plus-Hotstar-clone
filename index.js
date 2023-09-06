@@ -3,31 +3,31 @@ let movies = [
       name: "falcon and winter soldier",
       des:
         "Following the events of 'Avengers: Endgame,' Sam Wilson and Bucky Barnes team up in a global adventure that tes their abilities and their patience",
-      image: "/slider 2.PNG"
+      image: "slider 2.PNG"
     },
     {
       name: "loki",
       des:
         "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of 'Avengers: Endgame'.",
-      image: "/slider 1.PNG"
+      image: "slider 1.PNG"
     },
     {
       name: "wanda vision",
       des:
         "Wanda Maximoff and Vision-two super-powered beings living idealized suburban lives-begin to suspect that everything is not as it seems.",
-      image: "/slider 3.PNG"
+      image: "slider 3.PNG"
     },
     {
       name: "raya and the last dragon",
       des:
         "Raya, a fallen princess, must track down the legendary last dragon to stop the evil forces that have returned and threaten her world.",
-      image: "/slider 4.PNG"
+      image: "slider 4.PNG"
     },
     {
       name: "luca",
       des:
         "The movie is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides.  ",
-      image: "/slider 5.PNG"
+      image: "slider 5.PNG"
     }
   ];
   
